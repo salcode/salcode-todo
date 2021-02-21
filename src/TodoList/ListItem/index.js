@@ -1,6 +1,6 @@
-function ListItem() {
+function ListItem({name}) {
   return (
-    <li>item</li>
+    <li>{`${name}`}</li>
   );
 }
 

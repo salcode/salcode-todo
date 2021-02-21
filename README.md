@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# salcode Todo
+
+I wanted to build a React Todo list app to think through some of how it will work. - [@salcode](https://github.com/salcode)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

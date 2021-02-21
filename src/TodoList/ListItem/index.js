@@ -1,6 +1,14 @@
 function ListItem({name}) {
   return (
-    <li>{`${name}`}</li>
+    <li>
+      <button
+        className="complete-button"
+      >
+        Complete
+      </button>
+
+      {`${name}`}
+    </li>
   );
 }
 

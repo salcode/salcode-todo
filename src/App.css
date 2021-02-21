@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.todo-list {
+  list-style: none;
+  padding-inline-start: 0;
+  text-align: left;
+}

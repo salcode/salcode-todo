@@ -1,6 +1,6 @@
 function ListItem({name}) {
   return (
-    <li>
+    <li className="list-item">
       <button
         className="complete-button"
       >
